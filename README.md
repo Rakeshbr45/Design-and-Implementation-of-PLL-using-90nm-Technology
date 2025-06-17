@@ -29,3 +29,43 @@ difference, and then we can create closed loop frequency control system.
 # Block Diagram
 ![image](https://github.com/user-attachments/assets/b7105873-ee47-45d4-9986-954e0bcf849a)
 
+# PLL design implementation using Cadence
+
+#Phase Frequency Detector
+![image](https://github.com/user-attachments/assets/103d863f-43ce-4775-9467-aea13a7e5eae)
+
+Operation of PFD
+![image](https://github.com/user-attachments/assets/1abbced6-cedd-4b02-b19c-e432e5b660dd)
+
+Schematic Design
+![image](https://github.com/user-attachments/assets/06c0e4af-49ef-45ac-8daf-e2f769fac37c)
+
+# Charge Pump and Loop Filter
+![image](https://github.com/user-attachments/assets/a00d498a-6a4c-497b-a3de-13fbf61fc12d)
+![image](https://github.com/user-attachments/assets/76c03374-9fa8-43a9-8351-69b3be0d7b5c)
+
+Schematic Design
+![image](https://github.com/user-attachments/assets/7164799c-2b6a-4356-9523-93025a191a9d)
+
+# Voltage Controlled Oscillator
+![image](https://github.com/user-attachments/assets/24b032ea-89b0-42e5-9527-2d8b35ca08ce)
+
+Schematic Design
+![image](https://github.com/user-attachments/assets/fb3d19f3-d7bc-4be0-9f9a-44bfd1054bc4)
+
+# Simulation Result
+![image](https://github.com/user-attachments/assets/305a2be5-e6f7-4661-beb9-e69a235bb22f)
+
+# VCO Output
+![image](https://github.com/user-attachments/assets/0b61d8af-fb99-42f2-8fc8-cc38d1916459)
+
+# PLL Schematic
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
