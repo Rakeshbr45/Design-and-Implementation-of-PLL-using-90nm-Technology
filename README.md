@@ -24,4 +24,8 @@ phase and frequency of the “Voltage Controlled Oscillator” (VCO) output depe
 signal, the error voltage at the output of LPF increases which in turn increase the VCO output signal 
 frequency. On the contrary, if a “DOWN” signal is generated, the VCO output signal frequency 
 decreases. The output of the VCO is then fed back to the PFD in order to recalculate the phase 
-difference, and then we can create closed loop frequency control system.         
+difference, and then we can create closed loop frequency control system.    
+
+# Block Diagram
+![image](https://github.com/user-attachments/assets/b7105873-ee47-45d4-9986-954e0bcf849a)
+
