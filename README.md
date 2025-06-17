@@ -60,7 +60,8 @@ Schematic Design
 ![image](https://github.com/user-attachments/assets/0b61d8af-fb99-42f2-8fc8-cc38d1916459)
 
 # PLL Schematic
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/748285d8-55b2-4a44-8a84-bdc8fd485669)
+
 
 
 
